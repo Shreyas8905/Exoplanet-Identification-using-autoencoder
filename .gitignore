@@ -1,4 +1,26 @@
-data/
-.venv
-autoencoder.pth
+# Byte-compiled / cached
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+
+# Model weights
+outputs/autoencoder.pth
+*.pth
+*.pt
+
+# Data (download separately — see README)
+data/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
