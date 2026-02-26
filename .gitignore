@@ -1,0 +1,4 @@
+data/
+.venv
+autoencoder.pth
+__pycache__/

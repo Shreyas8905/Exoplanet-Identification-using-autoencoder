@@ -1,0 +1,10 @@
+torch
+astropy
+numpy
+matplotlib
+scikit-learn
+torchvision
+umap-learn
+hdbscan
+ipykernel
+fits
